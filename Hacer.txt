@@ -1,8 +1,7 @@
 ┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+	1.Crear una clase Persona con métodos para establecer y obtener el nombre y la edad.(✓)
 
-	1.Crear una clase Persona con métodos para establecer y obtener el nombre y la edad.
-
-	2.Crear una clase Coche con propiedades para la marca, el modelo y el año, y un método para obtener la información completa del coche.
+	2.Crear una clase Coche con propiedades para la marca, el modelo y el año, y un método para obtener la información completa del coche.(✓)
 
 	3.Crear una clase Producto con propiedades para el nombre, el precio y la cantidad en stock, y métodos para actualizar el precio y la cantidad en stock.
 
@@ -19,5 +18,10 @@
 	9.Crear una clase Tienda con propiedades para el nombre, la dirección y una lista de productos disponibles, y métodos para agregar y eliminar productos.
 
 	10.Crear una clase Vehículo con propiedades para la marca, el modelo y el color, y métodos para encender y apagar el vehículo.
+
+	11.Crear una clase que se llame Carrito de Compra,1.2-La Clase debe tener un Array de Items que tambien es una clase que tiene dos propiedades producto y cantidad
+	1.3-Debe tener un metodo agregar al carrito que agregue un producto al carrito.
+
+	check(✓)
 
 ┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
