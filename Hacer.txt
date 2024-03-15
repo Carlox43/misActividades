@@ -1,0 +1,23 @@
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
+
+	1.Crear una clase Persona con métodos para establecer y obtener el nombre y la edad.
+
+	2.Crear una clase Coche con propiedades para la marca, el modelo y el año, y un método para obtener la información completa del coche.
+
+	3.Crear una clase Producto con propiedades para el nombre, el precio y la cantidad en stock, y métodos para actualizar el precio y la cantidad en stock.
+
+	4.Crear una clase Rectángulo con propiedades para la base y la altura, y métodos para calcular el área y el perímetro.
+
+	5.Crear una clase Estudiante con propiedades para el nombre, la edad y el grado, y métodos para actualizar la información del estudiante.
+
+	6.Crear una clase Cuenta Bancaria con propiedades para el número de cuenta y el saldo, y métodos para depositar, retirar y obtener el saldo.
+
+	7.Crear una clase Libro con propiedades para el título, el autor y el número de páginas, y métodos para obtener y actualizar la información del libro.
+
+	8.Crear una clase Empleado con propiedades para el nombre, el salario y el cargo, y métodos para calcular el salario anual y actualizar la información del 	empleado.
+
+	9.Crear una clase Tienda con propiedades para el nombre, la dirección y una lista de productos disponibles, y métodos para agregar y eliminar productos.
+
+	10.Crear una clase Vehículo con propiedades para la marca, el modelo y el color, y métodos para encender y apagar el vehículo.
+
+┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅
